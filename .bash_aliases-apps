@@ -4,3 +4,5 @@ alias note=notepad.exe
 alias ll="ls -l -h -a"
 alias bat=batcat
 alias open="explorer.exe"
+alias chrome="/mnt/c/Program\ Files\ \(x86\)/Google/Chrome/Application/Chrome.exe"
+alias mygithub="chrome www.github.com/Shellywell123/"
