@@ -1,0 +1,6 @@
+#applications
+# alias git=git.exe # this will uses windows git
+alias note=notepad.exe
+alias ll="ls -l -h -a"
+alias bat=batcat
+alias open="explorer.exe"
