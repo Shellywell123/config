@@ -1,3 +1,3 @@
-source ~/config/.startup
-source ~/config/.bash_aliases
-source ~/config/.color_scheme
+source ~/config/startup/.startup
+source ~/config/bash_aliases/.bash_aliases
+source ~/config/theme/.color_scheme
